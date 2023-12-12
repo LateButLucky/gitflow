@@ -1,4 +1,3 @@
-import reverse_text from reverse_text.py
-
+import reverse_text
 
 reverse_text(asdsdad)
